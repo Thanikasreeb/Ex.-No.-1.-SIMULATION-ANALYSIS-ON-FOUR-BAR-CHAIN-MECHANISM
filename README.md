@@ -53,10 +53,11 @@
 
 
 ## Output:
+![image](https://github.com/Thanikasreeb/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119557910/cd27c0fe-3339-4f16-89ea-6365959d8a8c)
 
 
-### Name:
-### Register Number: 
+### Name: Thanika sree B
+### Register Number: 212222100055
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
